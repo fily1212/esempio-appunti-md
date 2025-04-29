@@ -6,11 +6,12 @@
 
 *Lezione di esempio*
 
-`//codice di esempio
+```
+//codice di esempio
 #include <stdio.h>
 
 int main() {
     printf("Ciao, mondo!\n");
     return 0;
 }
-`
+```
