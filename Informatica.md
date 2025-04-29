@@ -8,3 +8,8 @@ Le **variabili** sono dei contenitori in memoria.
 - [X] Fatto
 
 [Link](https://www.google.it)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
